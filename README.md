@@ -1,5 +1,5 @@
-# SummerSchool2021-Exercises
-This code is part of the exercise to create a microservice architecture for the Summer School 2021 in Stream SEP at University of Applied Sciences and Arts Dortmund.
+# SummerSchool2022-Exercises
+This code is part of the exercise to create a microservice architecture for the Summer School 2022 in Stream SEP at University of Applied Sciences and Arts Dortmund.
 
 ## Purpose
 During the Summer School course, we will jointly develop a microservice architecture. 
